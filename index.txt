@@ -1,0 +1,12 @@
+<html>
+<head>
+<c1><b><center>introduction</center></b></h>
+</head>
+<body>
+<c2>
+hey i am Koushik currently studying
+DSC in SNM Polytechinc
+mt aim to become a software developer
+</c2>
+</body>
+</html>
